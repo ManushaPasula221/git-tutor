@@ -1,1 +1,1 @@
-example dev1
+example dev-1
